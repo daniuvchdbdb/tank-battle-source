@@ -1,0 +1,13 @@
+
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+.venv/
+__pycache__/
+*.db
+*.sqlite*
+logs/
+runtime/
+project.private.config.json

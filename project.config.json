@@ -1,0 +1,11 @@
+{
+  "appid": "touristappid",
+  "projectname": "奶牛大乱撞",
+  "compileType": "game",
+  "libVersion": "3.7.0",
+  "setting": {
+    "es6": true,
+    "minified": false,
+    "postcss": false
+  }
+}
